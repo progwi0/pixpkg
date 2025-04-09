@@ -1,0 +1,20 @@
+/* Ubuntu for Bliss, Created by Progwi0. */
+
+/* Font */
+
+@font-face{
+	font-family: Ubuntu;
+	src: url("ubuntu.ttf");
+}
+
+body{
+	font-family: Ubuntu;
+}
+
+button{
+	font-family: Ubuntu;
+}
+
+input{
+	font-family: Ubuntu;
+}

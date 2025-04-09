@@ -1,0 +1,20 @@
+/* Roboto for Bliss, Created by Progwi0. */
+
+/* Font */
+
+@font-face{
+	font-family: Roboto;
+	src: url("roboto.ttf");
+}
+
+body{
+	font-family: Roboto;
+}
+
+button{
+	font-family: Roboto;
+}
+
+input{
+	font-family: Roboto;
+}

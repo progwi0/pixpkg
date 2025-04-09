@@ -1,0 +1,20 @@
+/* Noto Sans for Bliss, Created by Progwi0. */
+
+/* Font */
+
+@font-face{
+	font-family: Noto Sans;
+	src: url("notosans.ttf");
+}
+
+body{
+	font-family: Noto Sans;
+}
+
+button{
+	font-family: Noto Sans;
+}
+
+input{
+	font-family: Noto Sans;
+}
