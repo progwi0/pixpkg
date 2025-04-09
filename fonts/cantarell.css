@@ -1,0 +1,20 @@
+/* Cantarell for Bliss, Created by Progwi0. */
+
+/* Font */
+
+@font-face{
+	font-family: Cantarell;
+	src: url("cantarell.ttf");
+}
+
+body{
+	font-family: Cantarell;
+}
+
+button{
+	font-family: Cantarell;
+}
+
+input{
+	font-family: Cantarell;
+}
